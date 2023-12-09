@@ -16,7 +16,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/Linkedin.png">](https://www.linkedin.com/in/taskin-ahmad-al-faruqe-a53a96288/)[<img height="75" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/Facebook.png">](https://web.facebook.com/taskinahmadalfaruqe)[<img height="75" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/twitter.png"> </p>](https://web.facebook.com/taskinahmadalfaruqe)
+[<p align="center"><img height="75" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/Linkedin.png">](https://www.linkedin.com/in/taskin-ahmad-al-faruqe-a53a96288/)[<img height="75" marginY='10' src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/Facebook.png">](https://web.facebook.com/taskinahmadalfaruqe)[<img height="75" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/twitter.png"> </p>](https://web.facebook.com/taskinahmadalfaruqe)
 
 <br />
 
