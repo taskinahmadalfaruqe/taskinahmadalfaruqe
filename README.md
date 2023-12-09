@@ -14,9 +14,7 @@
 
 
 ## :mailbox: Reach me out
-
 <br />
-
 <p align="center">
   <a href="https://www.linkedin.com/in/taskin-ahmad-al-faruqe-a53a96288" style="margin-right: 10px;">
     <img height="60" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/aadb9da69850a43fd7a94d22171e06d21a7dab6c/image/LinkedIn.svg" alt="LinkedIn">
@@ -53,9 +51,8 @@
 </p><br/>
 
 ## :eyes: Current overview
-
 ### 🔭 I’m working -  
-### 🌱 I’m exploring - Next JS and Mongoose. 
+### 🌱 I’m exploring now - Next JS and Mongoose. 
 ### 👯 I’m looking - To collaborate on open source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
 ### ⚡ Fun fact - I love to make complex origami and I can speak 2 languages.
