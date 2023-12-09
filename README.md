@@ -4,6 +4,10 @@
 
 ### Hi there 👋
 ## Welcome To Taskin Ahmad Al Faruqe's GitHub profile.
+<p align='center'>
+I already finished my diploma in Engineering in Telecommunication Technology. Now I want to be a full-stack developer in the next 2 years. My Vision is fully clear and highly energetic. No one can drag me down. It's my only goal.
+</p>
+<br/>
 
 ## :chart_with_upwards_trend: Current Stats
 <br />
