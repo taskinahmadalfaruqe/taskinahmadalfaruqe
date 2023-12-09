@@ -24,7 +24,7 @@
     <img height="75" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/Facebook.png" alt="Facebook">
   </a>
   <a href="https://twitter.com/taskinahmadalf1">
-    <img height="60" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/twitter.png" alt="Twitter">
+    <img height="75" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/twitter.png" alt="Twitter">
   </a>
 </p>
 
