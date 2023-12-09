@@ -3,23 +3,20 @@
 </a>
 
 ### Hi there 👋
-### Welcome To Taskin Ahmad Al Faruqe's GitHub profile.
----
----
+## Welcome To Taskin Ahmad Al Faruqe's GitHub profile.
 
-##  Current Stats
-
+## :chart_with_upwards_trend: Current Stats
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=taskinahmadalfaruqe&theme=vision-friendly-dark&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=taskinahmadalfaruqe&theme=dracula&date_format=j%20M%5B%20Y%5D&border=DD2476&fire=FA5252&ring=FA5252&sideNums=DD2476&stroke=DD2476&dates=FA5252&excludeDaysLabel=EBE400&currStreakLabel=FA5252&currStreakNum=DD2476" />
 </p>
 <br/>
 
-##  Reach me out
+## :mailbox: Reach me out
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://web.facebook.com/taskinahmadalfaruqe)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+[<p align="center"><img height="75" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/Linkedin.png">](https://www.linkedin.com/in/taskin-ahmad-al-faruqe-a53a96288/)[<img height="75" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/Facebook.png">](https://web.facebook.com/taskinahmadalfaruqe)[<img height="75" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/TwitterX.png"> </p>](https://web.facebook.com/taskinahmadalfaruqe)
 
 <br />
 
