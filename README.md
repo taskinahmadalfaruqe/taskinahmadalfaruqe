@@ -22,7 +22,7 @@
     <img height="60" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/aadb9da69850a43fd7a94d22171e06d21a7dab6c/image/LinkedIn.svg" alt="LinkedIn">
   </a>
   <a href="https://web.facebook.com/taskinahmadalfaruqe" style="margin-right: 10px;">
-    <img height="75" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/Facebook.png" alt="Facebook">
+    <img height="60" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/Facebook.png" alt="Facebook">
   </a>
   <a href="https://twitter.com/taskinahmadalf1">
     <img height="60" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/Twitter.svg" alt="Twitter">
