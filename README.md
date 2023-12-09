@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/taskin-ahmad-al-faruqe-a53a96288" style="margin-right: 10px;">
-    <img height="75" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/Linkedin.png" alt="LinkedIn">
+    <img height="75" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/aadb9da69850a43fd7a94d22171e06d21a7dab6c/image/LinkedIn.svg" alt="LinkedIn">
   </a>
   <a href="https://web.facebook.com/taskinahmadalfaruqe" style="margin-right: 10px;">
     <img height="75" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/Facebook.png" alt="Facebook">
@@ -28,12 +28,10 @@
     <img height="75" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/twitter.png" alt="Twitter">
   </a>
 </p>
-
-
 <br />
 
-## :computer: Technologies that I know
 
+## :computer: Technologies that I know
 <br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/HTML.png"/>
