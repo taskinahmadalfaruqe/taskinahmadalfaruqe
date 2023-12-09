@@ -20,6 +20,9 @@ I already finished my diploma in Engineering in Telecommunication Technology. No
 ## :mailbox: Reach me out
 <br />
 <p align="center">
+  <a href="mailto:taskinahmadalfaruqe@gmail.com" style="margin-right: 10px;">
+    <img height="60" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/aadb9da69850a43fd7a94d22171e06d21a7dab6c/image/LinkedIn.svg" alt="LinkedIn">
+  </a>
   <a href="https://www.linkedin.com/in/taskin-ahmad-al-faruqe-a53a96288" style="margin-right: 10px;">
     <img height="60" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/aadb9da69850a43fd7a94d22171e06d21a7dab6c/image/LinkedIn.svg" alt="LinkedIn">
   </a>
