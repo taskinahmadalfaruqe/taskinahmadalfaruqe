@@ -16,7 +16,18 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/Linkedin.png">](https://www.linkedin.com/in/taskin-ahmad-al-faruqe-a53a96288/)[<img height="75" marginY='10' src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/Facebook.png">](https://web.facebook.com/taskinahmadalfaruqe)[<img height="75" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/twitter.png"> </p>](https://web.facebook.com/taskinahmadalfaruqe)
+<p align="center">
+  <a href="https://www.linkedin.com/in/taskin-ahmad-al-faruqe-a53a96288" style="margin-right: 10px;">
+    <img height="75" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/Linkedin.png" alt="LinkedIn">
+  </a>
+  <a href="https://web.facebook.com/taskinahmadalfaruqe" style="margin-right: 10px;">
+    <img height="75" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/Facebook.png" alt="Facebook">
+  </a>
+  <a href="https://twitter.com/taskinahmadalf1">
+    <img height="60" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/twitter.png" alt="Twitter">
+  </a>
+</p>
+
 
 <br />
 
