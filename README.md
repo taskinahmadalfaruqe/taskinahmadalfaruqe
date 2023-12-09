@@ -8,9 +8,10 @@
 ## :chart_with_upwards_trend: Current Stats
 <br />
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=taskinahmadalfaruqe&theme=dracula&date_format=j%20M%5B%20Y%5D&border=DD2476&fire=FA5252&ring=FA5252&sideNums=DD2476&stroke=DD2476&dates=FA5252&excludeDaysLabel=EBE400&currStreakLabel=FA5252&currStreakNum=DD2476" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=taskinahmadalfaruqe&theme=onedark-duo&date_format=j%20M%5B%20Y%5D&border=DD2476&fire=FA5252&ring=FA5252&sideNums=DD2476&stroke=DD2476&dates=FA5252&excludeDaysLabel=EBE400&currStreakLabel=FA5252&currStreakNum=DD2476" />
 </p>
 <br/>
+
 
 ## :mailbox: Reach me out
 
