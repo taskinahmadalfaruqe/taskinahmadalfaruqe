@@ -35,6 +35,14 @@ I already finished my diploma in Engineering in Telecommunication Technology. No
 </p>
 <br />
 
+## My Work Discription
+I work with the MERN stake base 
+
+* ReactJS: My 1st Choice is React For Any Dynamic WEB Site.
+* Tailwind CSS: For Better Custimization my site i use taikwind Css
+* Firebase: I use Firebase for authentication purposes
+* Strip: For Payment, I use Strip API
+* MongoDB: For the Backend database, I use MongoDB, NodeJS, and ExpressJS. 
 
 ## :computer: Technologies that I know
 <br>
