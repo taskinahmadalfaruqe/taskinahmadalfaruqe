@@ -19,7 +19,7 @@ I already finished my diploma in Engineering in Telecommunication Technology. No
 ## :chart_with_upwards_trend: Profile Summary
 <br />
 <p align="center">
-  <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taskinahmadalfaruqe&amp;theme=onedark-duo" alt="" title="Summary" />
+  <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taskinahmadalfaruqe&amp;theme=jolly" alt="" title="Summary" />
 </p>
 <br/>
 
@@ -27,7 +27,7 @@ I already finished my diploma in Engineering in Telecommunication Technology. No
 ## :chart_with_upwards_trend:  Most Used Languages
 <br />
 <p align="center">
- <img  width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=taskinahmadalfaruqe&show_icons=true&locale=en&layout=compact" alt="taskinahmadalfaruqe" />
+ <img  width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=taskinahmadalfaruqe&show_icons=true&locale=en&layout=compact" alt="Most Used Language" />
 </p>
 <br/>
 
