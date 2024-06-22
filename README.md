@@ -35,8 +35,8 @@ I already finished my diploma in Engineering in Telecommunication Technology. No
 </p>
 <br />
 
-## My Work Discription
-I work with the MERN stake base 
+## My Work Description
+I work with the MERN Stake Base 
 
 * ReactJS: My 1st Choice is React For Any Dynamic WEB Site.
 * Tailwind CSS: For Better Custimization my site i use taikwind Css
@@ -66,8 +66,8 @@ I work with the MERN stake base
 </p><br/>
 
 ## :eyes: Current overview
-### 🔭 I’m working -  
+### 🔭 I’m working -  C++
 ### 🌱 I’m exploring now - Next JS and Mongoose. 
-### 👯 I’m looking - To collaborate on open source projects. 
+### 👯 I’m looking - To collaborate on open-source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 2 languages.
+### ⚡ Fun fact - I love making complex origami and can speak 2 languages.
