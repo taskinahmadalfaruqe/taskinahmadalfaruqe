@@ -17,6 +17,14 @@ I already finished my diploma in Engineering in Telecommunication Technology. No
 <br/>
 
 
+## :chart_with_upwards_trend:  Most Used Languages
+<br />
+<p align="center">
+ <img  width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=taskinahmadalfaruqe&show_icons=true&locale=en&layout=compact" alt="taskinahmadalfaruqe" />
+</p>
+<br/>
+
+
 ## :mailbox: Reach me out
 <br />
 <p align="center">
