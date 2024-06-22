@@ -24,6 +24,13 @@ I already finished my diploma in Engineering in Telecommunication Technology. No
 <br/>
 
 
+## :chart_with_upwards_trend:  Regular Contribution
+<br />
+<p align="center">
+ <img  width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taskinahmadalfaruqe&theme=aura&utcOffset=8" />
+</p>
+<br/>
+
 ## :chart_with_upwards_trend:  Most Used Languages
 <br />
 <p align="center">
