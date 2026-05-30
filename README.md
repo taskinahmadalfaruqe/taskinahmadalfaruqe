@@ -56,7 +56,7 @@ I already finished my diploma in Engineering in Telecommunication Technology. No
   <a href="https://web.facebook.com/taskinahmadalfaruqe" style="margin-right: 10px;">
     <img height="60" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/Facebook.png" alt="Facebook">
   </a>
-  <a href="https://twitter.com/taskinahmadalf1">
+  <a href="https://x.com/TaskinAhmadalfa">
     <img height="60" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/Twitter.svg" alt="Twitter">
   </a>
   <a href="https://www.instagram.com/taskinahmadalfaruqe/">
