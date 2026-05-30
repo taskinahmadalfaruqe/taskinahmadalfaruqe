@@ -49,20 +49,26 @@ I already finished my diploma in Engineering in Telecommunication Technology. No
 
 <p align="center">
   <a href="mailto:taskinahmadalfaruqe@gmail.com" style="margin-right: 10px;">
-    <img height="60" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/mail.png" alt="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/taskin-ahmad-al-faruqe-a53a96288" style="margin-right: 10px;">
-    <img height="60" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/aadb9da69850a43fd7a94d22171e06d21a7dab6c/image/LinkedIn.svg" alt="LinkedIn">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
+
   </a>
   <a href="https://web.facebook.com/taskinahmadalfaruqe" style="margin-right: 10px;">
-    <img height="60" src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/Facebook.png" alt="Facebook">
+    <img src="https://github.com/taskinahmadalfaruqe/taskinahmadalfaruqe/blob/main/image/Facebook.png" alt="facebook" />
   </a>
+  
   <a href="https://x.com/TaskinAhmadalfa">
     <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" />
   </a>
   
   <a href="https://www.instagram.com/taskinahmadalfaruqe/">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+
+  <a href="https://discord.com/users/taskinahmadalfaruqe#0070">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
 
 </p>
