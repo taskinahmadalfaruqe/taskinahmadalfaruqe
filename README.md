@@ -39,7 +39,7 @@ I already finished my diploma in Engineering in Telecommunication Technology. No
 
 <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taskinahmadalfaruqe&show_icons=true&locale=en&layout=compact" width="70%" alt="Most Used Language" />
+  <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taskinahmadalfaruqe&theme=react)" width="70%" alt="Most Used Language" />
 </p>
 <br/>
 
