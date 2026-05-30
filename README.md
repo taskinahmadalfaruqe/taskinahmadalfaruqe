@@ -69,9 +69,10 @@ I work with the MERN Stake Base
 ## :computer: Technologies that I know
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/HTML.png"/>
+<!-- <img src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/HTML.png"/>
 <img src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/css.png"/>
-<img src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/JavaScript.png"/>
+<img src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/JavaScript.png"/> -->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 </p>
 <p align="center">
