@@ -76,33 +76,28 @@ I work with the MERN Stake Base
 
 <br>
 <p align="center">
-<!-- <img src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/HTML.png"/>
-<img src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/css.png"/>
-<img src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/JavaScript.png"/> -->
-<!-- [![My Skills]()](https://skillicons.dev) -->
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,js,cpp,c" />
   </a>
 
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/React.png"/>
-<img src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/sass.png"/>
-<img src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/tailwind.png"/>
-<img src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/Bootsrap.png"/>
-<img src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/firebase.png"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,sass,materialui,tailwind,bootstrap," />
+  </a>
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/node.png"/>
-<img src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/express.png"/>
-<img src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/mongo.png"/>
-</p><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,mysql,postman" />
+  </a>
+</p>
+<br/>
 
 ## :eyes: Current overview
 
-### 🔭 I’m working - C++
+### 🔭 I’m working - java
 
-### 🌱 I’m exploring now - Next JS and Mongoose.
+### 🌱 I’m exploring now - Typascript and Mysql.
 
 ### 👯 I’m looking - To collaborate on open-source projects.
 
