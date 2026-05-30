@@ -1,5 +1,5 @@
 <a href="https://web.facebook.com/taskinahmadalfaruqe">
-<img src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/BannerImage.jpg" />
+<img src="https://raw.githubusercontent.com/taskinahmadalfaruqe/taskinahmadalfaruqe/main/image/BannerImage.png" />
 </a>
 
 ### Hi there 👋
